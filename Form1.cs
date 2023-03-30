@@ -32,7 +32,7 @@ namespace PBL3_1._0_
             String user, password;
 
             user = "Admin";
-            password = "123";
+            password = "123456";
 
             try
             {
